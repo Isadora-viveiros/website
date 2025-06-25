@@ -1,6 +1,6 @@
 ---
 title: "Vitor Franchini"
-description: "Sempre tentando aprender coisas novas, apaixonado por tecnologia e especialmente interessado em engenharia reversa, análise de malware e criptografia."
+description: "Passionate about technology, always learning. Especially interested in reverse engineering, malware analysis, and cryptography."
 cargo: "associate"
 github: "vitorfranchini"
 linkedin: "vitorfranchini"
