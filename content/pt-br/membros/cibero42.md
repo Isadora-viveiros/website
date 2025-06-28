@@ -33,3 +33,5 @@ Se você achou o OpSec do "cibero42" bem fraco, é porque ele é intencionalment
 
 ## Você É  Da LICS
 Seu tempo seria mais bem gasto lendo os materiais de trainning que a equipe disponibilizou para você... mas se você está aqui pois precisa da minha ajuda, me chame em um dos nossos canais e marcamos uma reunião.
+
+Se você for o B., rNJAyMrs6uZA5uDK1ujSQNjCQMzS2NrK6N7cQIgS0kDo0sp0QNDo6ODmdF5e4MLm6MrE0txcxt7aXtTs6Mzm0mLEFKDC5ubu3uTIQMrm6MLmQNjCQM7k6uDeQNbS6kDW5MrS5kDYwkDg2MrUQNjKzsrcyMLcQKzS3Mje9MLcQMrW5uDY6sLo3txc=
