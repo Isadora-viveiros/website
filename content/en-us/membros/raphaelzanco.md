@@ -5,7 +5,7 @@ cargo: "associate"
 github: "raphaelzanco"
 linkedin: "raphael-zanco"
 external: ""
-points: "0"
+points: 1
 areas:
   - "management"
 badges:

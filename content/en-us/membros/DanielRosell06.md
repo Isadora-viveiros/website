@@ -5,7 +5,7 @@ cargo: "associate"
 github: "DanielRosell06"
 linkedin: "daniel-aniceto-rosell-48bb48305"
 external: ""
-points: 0
+points: 1
 areas:
   - "training"
 badges:
