@@ -5,7 +5,7 @@ cargo: "associate"
 github: "vitorfranchini"
 linkedin: "vitorfranchini"
 external: ""
-points: "0"
+points: 1
 areas:
   - "training"
 badges:

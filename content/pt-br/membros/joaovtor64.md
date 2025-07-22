@@ -5,7 +5,7 @@ cargo: "associate"
 github: "joaovtor64"
 linkedin: ""
 external: ""
-points: 0
+points: 13
 areas:
   - "training"
 badges:

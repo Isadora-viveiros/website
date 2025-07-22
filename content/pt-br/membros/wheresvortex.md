@@ -5,7 +5,7 @@ cargo: "associate"
 github: "wheresvortex"
 linkedin: "enzohenrique"
 external: ""
-points: "0"
+points: 1
 areas:
   - "training"
 badges:

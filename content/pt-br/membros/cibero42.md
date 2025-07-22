@@ -5,7 +5,7 @@ cargo: "agent"
 github: "cibero42"
 linkedin: "renato-cf"
 external: ""
-points: 0
+points: 1
 areas:
   - "training"
 badges:
