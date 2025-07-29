@@ -1,6 +1,6 @@
 ---
-title: "Renato Castro"
-description: "Sou um nerd de cibersegurança apaixonado por Linux, CTI e ensinar."
+title: "Renato C."
+description: "A cybersecurity nerd passionate about Linux, CTI and teaching."
 cargo: "agent"
 github: "cibero42"
 linkedin: "renato-cf"

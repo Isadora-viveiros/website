@@ -1,5 +1,5 @@
 ---
-title: "Renato Castro"
+title: "Renato C."
 description: "Sou um nerd de cibersegurança apaixonado por Linux, CTI e ensinar."
 cargo: "agent"
 github: "cibero42"
