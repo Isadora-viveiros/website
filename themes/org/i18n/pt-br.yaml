@@ -80,3 +80,8 @@ partial-roles-op2: Pesquisador
 partial-roles-op3: Tutor
 partial-roles-op4: Agente
 partial-roles-op5: Associado
+
+###########
+# Generic #
+###########
+generic-last-updt: Última atualização

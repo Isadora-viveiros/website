@@ -15,3 +15,9 @@ header:
     name: Contato
     url: /pt-br/contato/
     weight: 4
+
+legal:
+  - identifier: privacy
+    name: Política de Privacidade
+    url: /pt-br/legal/privacidade/
+    weight: 1

@@ -15,3 +15,9 @@ header:
     name: Contact
     url: /en-us/contato/
     weight: 4
+
+legal:
+  - identifier: privacy
+    name: Privacy Policy
+    url: /en-us/legal/privacy/
+    weight: 1
