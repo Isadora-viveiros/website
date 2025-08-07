@@ -15,3 +15,13 @@ header:
     name: Contato
     url: /pt-br/contato/
     weight: 4
+
+legal:
+  - identifier: privacy
+    name: Política de Privacidade
+    url: /pt-br/legal/privacidade/
+    weight: 1
+  - identifier: terms
+    name: Termos de Uso
+    url: /pt-br/legal/termos/
+    weight: 1

@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $data_index := index site.Data site.Language.Lang }}
+<section class="bg-black">
+    <div style="height: {{ .Site.Params.spacing_size }};"></div>
+    <div style="height: {{ .Site.Params.spacing_size }};"></div>
+    <div class="container">
+        <div>
+            <h1 class="text-center text-primary fw-semibold mb-3">{{ .Title }}</h1>
+            <div class="d-flex justify-content-center">
+                <p class="mx-2 text-center text-white mb-4">{{ T "generic-last-updt"}}:&nbsp;{{ .Date.Format "02/01/2006" }}</p>
+            </div>
+        </div>
+    </div>
+    <div style="height: {{ .Site.Params.spacing_size }};"></div>
+</section>
+<section class="bg-black">
+    <div class="border-top border-white" style="height: {{ .Site.Params.spacing_size }};"></div>
+    <div class="container">
+        {{ .Content }}
+    </div>
+    <div style="height: {{ .Site.Params.spacing_size }};"></div>
+</section>
+{{ end }}
