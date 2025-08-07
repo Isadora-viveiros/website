@@ -21,3 +21,7 @@ legal:
     name: Privacy Policy
     url: /en-us/legal/privacy/
     weight: 1
+  - identifier: terms
+    name: Terms of Use
+    url: /en-us/legal/terms/
+    weight: 1

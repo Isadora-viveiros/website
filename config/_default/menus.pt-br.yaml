@@ -21,3 +21,7 @@ legal:
     name: Política de Privacidade
     url: /pt-br/legal/privacidade/
     weight: 1
+  - identifier: terms
+    name: Termos de Uso
+    url: /pt-br/legal/termos/
+    weight: 1
