@@ -13,40 +13,24 @@ badges:
 translationKey: "member_brennocm"
 ---
 ## Experiência
+### Security Engineer 
+Serasa Experian
+- Duration: Jul 2025 - Present
+
 ### Cyber Defense Analyst | SOC
 Darede - Da Rede a Nuvem
-- Duração: 06/2023 - 07/2024
+- Duration: May 2023 - July 2024
 
 ## Education
 ### Technologist in Systems Analysis and Development
 - Institution: FT/UNICAMP
 - Duration: 2022 - 2026
 
-### Interdisciplinary Higher Education Program
+### Interdisciplinary Higher Education Program (ProFIS)
 - Institution: UNICAMP
 - Duration: 2020 - 2022
 
 # Certifications
-### CBP
-Certified Blockchain Practitioner
-- Issued: 2025
-- Issuing Organization: The SecOps Group
-
-### CCSP-AWS
-Certified Cloud Security Practitioner – AWS
-- Issued: 2025
-- Issuing Organization: The SecOps Group
-
-### CNSP
-Certified Network Security Practitioner – AWS
-- Issued: 2025
-- Issuing Organization: The SecOps Group
-
-### CAP
-Certified AppSec Practitioner (CAP)
-- Issued: 2025
-- Issuing Organization: The SecOps Group
-
 ### MCRTA
 Multi-Cloud Red Team Analyst (MCRTA)
 - Issued: 2024
