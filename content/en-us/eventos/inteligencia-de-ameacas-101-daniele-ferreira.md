@@ -1,5 +1,5 @@
 ---
-title: "Inteligência de Ameaças 101: Prevenção e Mitigação de Ataques"
+title: "Threat Intelligence 101: Attack Prevention and Mitigation"
 speaker: "Daniele Ferreira"
 company: "Independent"
 country: "br"

@@ -1,5 +1,5 @@
 ---
-title: "Além do SIEM: Técnicas Modernas de Evasão em Ambientes Monitorados"
+title: "Beyond SIEM: Modern Evasion Techniques in Monitored Environments"
 speaker: "Francisco Marinho"
 company: "iT.eam"
 country: "br"
