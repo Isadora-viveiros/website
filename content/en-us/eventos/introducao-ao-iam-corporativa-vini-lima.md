@@ -1,5 +1,5 @@
 ---
-title: "Introdução ao IAM Corporativa e Sua Evolução"
+title: "Introduction to Corporate IAM and Its Evolution"
 speaker: "Vini Lima & Evandro Macahuba"
 company: "Okta"
 country: "br"

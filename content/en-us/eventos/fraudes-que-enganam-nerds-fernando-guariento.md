@@ -1,5 +1,5 @@
 ---
-title: "Fraudes Que Enganam Até Os Nerds"
+title: "Scams That Fool Even Nerds"
 speaker: "Fernando Guariento"
 company: "Serasa Experian"
 country: "br"
