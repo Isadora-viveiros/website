@@ -13,4 +13,4 @@ badges:
 translationKey: "member_eric-less"
 ---
 ## Sobre
-NLimeirense que quer aprender mais sobre cibersegurança, interesse em: threat intelligence e ferramentas osint
+Limeirense que quer aprender mais sobre cibersegurança, interesse em: threat intelligence e ferramentas osint
