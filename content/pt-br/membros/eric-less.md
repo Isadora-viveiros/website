@@ -1,6 +1,6 @@
 ---
 title: "Eric R."
-description: "Nenhuma descrição foi criada"
+description: "São Paulino, Vintage culturista com possível hiperfoco em clash royale."
 cargo: "agent"
 github: "eric-less"
 linkedin: ""
@@ -13,4 +13,4 @@ badges:
 translationKey: "member_eric-less"
 ---
 ## Sobre
-Não há nada por aqui ¯\_(ツ)_/¯
+NLimeirense que quer aprender mais sobre cibersegurança, interesse em: threat intelligence e ferramentas osint
