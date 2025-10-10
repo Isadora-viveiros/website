@@ -1,6 +1,6 @@
 ---
 title: "Gabriel Ramos"
-description: "Defensor de código livre virado em cibersegurança e Trackmania."
+description: "Open source advocate turned cybersecurity and Trackmania."
 cargo: "associate"
 github: "ramosantos"
 linkedin: "gbrms"

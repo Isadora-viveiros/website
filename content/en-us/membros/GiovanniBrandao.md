@@ -1,6 +1,6 @@
 ---
 title: "Giovanni Brandão"
-description: "Aspirante em diferentes áreas da arte e nerd na maioria das horas. Let's be friends!"
+description: "Aspiring to various fields of art and a nerd most of the time. Let's be friends!"
 cargo: "associate"
 github: "GiovanniBrandao"
 linkedin: "giovanni-brandao"
