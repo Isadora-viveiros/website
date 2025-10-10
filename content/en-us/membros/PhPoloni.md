@@ -1,6 +1,6 @@
 ---
 title: "Phillipi Poloni"
-description: "Campeão regional de bocha"
+description: "Regional bocce champion."
 cargo: "associate"
 github: "PhPoloni"
 linkedin: "phillipi-poloni-0b75a7306"

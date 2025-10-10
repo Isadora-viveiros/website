@@ -1,6 +1,6 @@
 ---
 title: "Vinicius Zanete"
-description: "Busco conhecimento."
+description: "I seek knowledge."
 cargo: "associate"
 github: "vinizanete"
 linkedin: ""

@@ -1,6 +1,6 @@
 ---
 title: "Isadora Assumpção"
-description: "Estudando a tempos e tentando aprender crochê a mais tempos."
+description: "I've been studying for a while and trying to learn crochet for even longer."
 cargo: "associate"
 github: "Isadora-viveiros"
 linkedin: "isadora-assumpção-99b848345"

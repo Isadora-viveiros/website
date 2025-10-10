@@ -1,6 +1,6 @@
 ---
 title: "Raphael Zanco"
-description: "Utilizando a tecnologia para impactar pessoas. Adoro economia e negócios, sempre buscando novos desafios."
+description: "Using technology to impact people. I love economics and business, always seeking new challenges."
 cargo: "associate"
 github: "raphaelzanco"
 linkedin: "raphael-zanco"

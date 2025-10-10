@@ -1,6 +1,6 @@
 ---
 title: "Vitor Daniel"
-description: "Apaixonado em aprender algo novo, entusiasta de xadrez e leitor de Nietzsche nos momentos confusos."
+description: "Passionate about learning something new, chess enthusiast and reader of Nietzsche in confusing moments."
 cargo: "associate"
 github: "VitorPortinari"
 linkedin: "vitor-d-8a2307274"

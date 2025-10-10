@@ -1,6 +1,6 @@
 ---
 title: "Fernanda Alves"
-description: "Viciada em sistemas embarcados, redes IoT e cibersegurança, nas horas vagas jogo um baska."
+description: "Addicted to embedded systems, IoT networks, and cybersecurity, I play basket in my spare time."
 cargo: "associate"
 github: "NandaB2"
 linkedin: "fernanda-alves-239926233"
