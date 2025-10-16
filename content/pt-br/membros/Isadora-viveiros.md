@@ -7,7 +7,7 @@ linkedin: "isadora-assumpção-99b848345"
 external: ""
 points: 0
 areas:
-  - "training"
+  - "external_relations"
 badges:
   - ""
 translationKey: "member_Isadora-viveiros"
