@@ -13,8 +13,8 @@ badges:
 translationKey: "member_Isadora-viveiros"
 ---
 ## Sobre
-Oi, eu sou a Isa, formada em Técnico em Desenvolvimento de Sistemas pela Etec e atualmente cursando Sistemas de Informação na Unicamp.
+Oi, eu sou a Isa, sou formada em Técnico em Desenvolvimento de Sistemas pela Etec e atualmente estou cursando Sistemas de Informação na Unicamp.
 
-Faço parte da LICS, na área de Relações Exteriores, onde, além de estudar a área de Ciber, atuo na construção de parcerias, na representação institucional da liga e na comunicação e marketing.
+Faço parte da LICS na área de Relações Exteriores, onde além de estudar a área de Ciber, atuo na construção de parcerias, na representação institucional da liga e na comunicação e marketing.
 
 Para conhecer um pouco mais da minha trajetória, recomendo dar uma olhada no meu GitHub e LinkedIn ツ.
